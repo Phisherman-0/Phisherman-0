@@ -54,5 +54,3 @@ If you find my work interesting or helpful, consider supporting me:
 ---
 
 **Proudly created with GPRM ( https://gprm.itsvg.in )**
-
-![Snake animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
