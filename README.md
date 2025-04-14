@@ -32,7 +32,7 @@ Innovative **decentralized solutions** and **cybersecurity tools** that push the
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ### DevOps & Hosting
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
 ### Cybersecurity & Penetration Testing
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)  ![Metasploit](https://img.shields.io/badge/Metasploit-%23121011.svg?style=for-the-badge&logo=metasploit&logoColor=white)  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)  
@@ -41,7 +41,7 @@ Innovative **decentralized solutions** and **cybersecurity tools** that push the
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=phisherman-0&theme=radical&show_icons=true&hide_border=true&count_private=true)  ![](https://github-readme-streak-stats.herokuapp.com/?user=phisherman-0&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=phisherman-0&theme=radical&show_icons=true&hide_border=true&count_private=true)      ![](https://github-readme-streak-stats.herokuapp.com/?user=phisherman-0&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phisherman-0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
