@@ -13,7 +13,7 @@ Innovative **decentralized solutions** and **cybersecurity tools** that push the
 - **Python** and **JavaScript** for scripting, automation, and penetration testing  
 - Building secure and scalable **decentralized systems**  
 
-**😄 Pronouns:** He/Him  
+**😄 Pronouns:** He/Him/Not Gay  
 
 ---
 
@@ -37,20 +37,12 @@ Innovative **decentralized solutions** and **cybersecurity tools** that push the
 ### Cybersecurity & Penetration Testing
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)  ![Metasploit](https://img.shields.io/badge/Metasploit-%23121011.svg?style=for-the-badge&logo=metasploit&logoColor=white)  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)  
 
----
+--- 
+## GitHub Stats
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phisherman-0&hide_border=true&layout=compact" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phisherman-0&show_icons=true&count_private=true&hide_border=true" width="48%" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=phisherman-0&theme=radical&show_icons=true&hide_border=true&count_private=true)      ![](https://github-readme-streak-stats.herokuapp.com/?user=phisherman-0&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phisherman-0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
----
-
-## 💰 Support Me
-
-If you find my work interesting or helpful, consider supporting me:  
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aiialpha)  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aiialpha)  
-
----
-
-**Proudly created with GPRM ( https://gprm.itsvg.in )**
+![Profile views](https://komarev.com/ghpvc/?username=rishavanand&style=flat-square)
