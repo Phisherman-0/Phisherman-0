@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Elemeje Ayomide (Phisherman)
+# 👋 Hi, I'm Ayomide O. Elemeje (Phisherman)
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/your-handle)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/your-profile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomide-elemeje/)
+  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/phisherman_)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ph1sherman/)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=phisherman-0&style=flat-square&color=blue)
   
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Cybersecurity enthusiast and full-stack developer passionate about building secure, decentralized solutions. I specialize in web security, penetration testing, and blockchain technologies, with a strong focus on creating innovative tools that enhance digital security.
+Cybersecurity enthusiast and full-stack developer passionate about building secure, decentralized solutions. I specialize in web security, penetration testing and blockchain technologies, with a strong focus on creating innovative tools that enhance digital security.
 
 ---
 
@@ -27,11 +27,14 @@ Cybersecurity enthusiast and full-stack developer passionate about building secu
 
 ## 🏆 Certifications
 
-<!-- Add your certifications here as you obtain them -->
+<!-- My certifications as I obtain them -->
 ```
-🔹 [Certification Name] - [Issuing Organization] - [Year]
-🔹 [Certification Name] - [Issuing Organization] - [Year]
-🔹 [Certification Name] - [Issuing Organization] - [Year]
+🔹 OCI Foundation Associate - Oracle Cloud Infrastructure - 2025
+🔹 OCI AI Foundations Associate - Oracle Cloud Infrastructure - 2025
+🔹 OCI Data Platform Foundations Associate - Oracle Cloud Infrastructure - 2025
+🔹 Fortinet Certified Associate in Cybersecurity - Fortinet - 2025
+🔹 SQL Introduction - Stepik.org - 2025
+🔹 Hashgraph Developer Course - The Hashgraph Association - 2025
 ```
 
 **Pursuing:**
@@ -54,6 +57,7 @@ Cybersecurity enthusiast and full-stack developer passionate about building secu
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend Development
@@ -71,7 +75,6 @@ Cybersecurity enthusiast and full-stack developer passionate about building secu
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### Cybersecurity & Penetration Testing
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -108,9 +111,9 @@ I'm actively seeking collaboration opportunities in:
 
 Feel free to reach out for collaborations, security discussions, or just to connect!
 
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
-- 🐦 X (Twitter): [@your-handle](https://x.com/your-handle)
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [Ayomide Elemeje](https://www.linkedin.com/in/ayomide-elemeje/)
+- 🐦 X (Twitter): [@phisherman_](https://x.com/phisherman_)
+- 📧 Email: elemejea@gmail.com
 
 ---
 
